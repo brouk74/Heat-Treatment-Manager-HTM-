@@ -1,0 +1,34 @@
+# Віртуальне оточення
+venv/
+
+# Тимчасові файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Конфігурації середовища / паролі
+.env
+instance/
+
+# Файли бази даних
+*.db
+*.sqlite3
+
+# Логи
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# WeasyPrint / PDF тимчасові файли
+*.pdf
+*.html
+
+# Файли IDE / редакторів
+.vscode/
+.idea/
+
+# Файли зображень тимчасові (якщо будеш зберігати обробку)
+*.tmp
+*.temp
